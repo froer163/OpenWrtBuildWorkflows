@@ -13,7 +13,7 @@
 #-------------------------------------------------------------------------------------------------------
 
 # Workflow name which is showed in GitHub Actions.
-name: Build openwrt for ts253d
+name: Build openwrt
 
 on:
   workflow_dispatch:
